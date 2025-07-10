@@ -1,0 +1,14 @@
+android-studio-2021.2.1.16-windows.exe
+
+
+1. "C:\Users\zhaot\Downloads\MockGps-main\app\key" 为发布版SHA1值（亦可自建，如"C:\Users\zhaot\Downloads\MockGps-main\app\mykey.jks"）
+
+     C:\Program Files\Android\Android Studio\jre\bin>keytool -list -v -keystore "C:\Users\zhaot\Downloads\MockGps-main\app\key" 可查看
+
+2. "C:\Users\zhaot\Downloads\MockGps-main\app\src\main\res\mipmap-xxxhdpi\ic_launcher.jpeg" 为APK图标，可修改
+
+3. "C:\Users\zhaot\Downloads\MockGps-main\config.gradle" 修改其中 包名、版本号、map_key
+
+4. "C:\Users\zhaot\Downloads\MockGps-main\app\build.gradle" 内含发布版key密码
+
+5. "C:\Users\zhaot\Downloads\MockGps-main\app\src\main\res\values\strings.xml" 内字符串可按需修改
