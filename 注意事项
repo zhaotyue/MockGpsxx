@@ -1,0 +1,17 @@
+开发环境：android-studio-2021.2.1.16-windows.exe
+应用图标："C:\Users\zhaot\Downloads\MockGps-main\app\src\main\res\mipmap-xxxhdpi\ic_launcher.jpeg"
+包信息：（包名、API、版本号等）"C:\Users\zhaot\Downloads\MockGps-main\config.gradle"
+    android = [
+            compileSdkVersion: 31,
+            buildToolsVersion: '29.0.3',
+            applicationId    : 'com.taobao.trip',
+            minSdkVersion    : 21,
+            targetSdkVersion : 31,
+            versionCode      : 91026102,
+            versionName      : '9.10.26.102',
+            map_key          : 'IElSM62cS8Jq7iRGCLeDX7Lq1XEsuETH',
+    ]
+key信息："C:\Users\zhaot\Downloads\MockGps-main\app\build.gradle"
+字符串："C:\Users\zhaot\Downloads\MockGps-main\app\src\main\res\values\strings.xml"
+
+key目录："C:\Users\zhaot\Downloads\MockGps-main\app\key"
